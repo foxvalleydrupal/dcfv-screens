@@ -45,6 +45,14 @@ p.big {
     font-size: 2em;
 }
 
+p.biggest {
+    font-size: 3em;
+}
+
+a:link, a:visited, a:active {
+    color: #BB0274;
+}
+
 table {
     width: 100%;
 }
