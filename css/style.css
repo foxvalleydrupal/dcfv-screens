@@ -169,6 +169,16 @@ img.logo {
     max-width: 400px;
 }
 
+#giveaways td {
+    padding: 2em;
+    text-align: center;
+}
+
+#giveaways img {
+    max-height: 200px;
+    max-width: 400px;
+}
+
 #schedule {
     padding: 4em 0;
 }
